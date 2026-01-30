@@ -10,7 +10,7 @@ export default function CurrentMoneySplitWidget() {
     ];
 
     return (
-        <div className="bg-[#0A0A0A] text-white p-8 rounded-3xl w-full shadow-2xl font-sans relative overflow-hidden border border-[#FFFFFF14]">
+        <div className="text-white p-8 rounded-3xl w-full shadow-2xl font-sans relative overflow-hidden border border-[#FFFFFF14] bg-gradient-to-r to-[#1A0505] from-[#0A0A0A] min-h-64">
             {/* Header */}
             <div className="flex justify-between items-end flex-wrap mb-8 relative z-10">
                 <div>
